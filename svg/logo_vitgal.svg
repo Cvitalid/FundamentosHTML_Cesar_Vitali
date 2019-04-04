@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter height="200%" id="svg_19_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="serif" font-size="24" font-weight="normal" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1.11465 0 0 1 -37.783 0)" x="326.323576" xml:space="preserve" y="183">SERVICIOS</text>
+  <text fill="#000000" font-family="Serif" font-size="43" font-style="normal" font-weight="normal" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(0.557 231 138.563) matrix(1.31356 0 0 1 -73.6378 0)" x="231.925502" xml:space="preserve" y="152.5">VITGAL</text>
+  <g filter="url(#svg_19_blur)" id="svg_19">
+   <polygon cx="50.5" cy="271.5" edge="44.746198" fill="#ffffff" id="svg_11" orient="x" points="406.56341552734375,126.5 380.2622375488281,162.700439453125 337.7060546875,148.87310791015625 337.7060546875,104.12690734863281 380.2622375488281,90.299560546875 406.56341552734375,126.5 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000" transform="rotate(-18.407 372.135 126.5)"/>
+   <polygon cx="92.5" cy="255.5" edge="39.197506" fill="#bfbfbf" id="svg_16" orient="x" points="391.97589111328125,126.5 372.27264404296875,153.3974151611328 340.39208984375,143.12350463867188 340.39208984375,109.87648010253906 372.27264404296875,99.60260009765625 391.97589111328125,126.5 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000" transform="rotate(160.404 366.184 126.5)"/>
+  </g>
+ </g>
+</svg>

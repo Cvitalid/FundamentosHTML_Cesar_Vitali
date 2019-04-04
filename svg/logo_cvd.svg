@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter height="200%" id="svg_19_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur stdDeviation="1.3"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <text fill="#000000" font-family="serif" font-size="24" font-weight="normal" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(4.57739 0 0 2.16563 -793.338 53.1989)" x="241.829968" xml:space="preserve" y="130.089108">SERVICIOS</text>
+   <g filter="url(#svg_19_blur)" id="svg_19">
+    <polygon fill="#ffffff" id="svg_11" points="624.9164428710938,191.6714324951172 590.2183227539062,281.39300537109375 475.4231872558594,282.0616760253906 439.17401123046875,192.7532958984375 531.5658569335938,136.88906860351562 624.9164428710938,191.6714324951172 " stroke="#000000" stroke-width="5"/>
+    <polygon fill="#bfbfbf" id="svg_16" points="463.50311279296875,232.735107421875 487.9809875488281,165.53280639648438 573.8745727539062,163.40106201171875 602.4818115234375,229.28582763671875 534.2684326171875,272.1366271972656 463.50311279296875,232.735107421875 " stroke="#000000" stroke-width="5"/>
+   </g>
+   <text fill="#000000" font-family="Serif" font-size="43" font-weight="normal" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(4.6003 0 0 2.90284 -1094.43 -250.613)" x="286.585669" xml:space="preserve" y="180.399929">CVD</text>
+  </g>
+ </g>
+</svg>
